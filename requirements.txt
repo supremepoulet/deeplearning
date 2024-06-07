@@ -1,2 +1,5 @@
 pandas
 tensorflow
+nltk
+re
+unicodedata
